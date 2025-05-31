@@ -20,7 +20,7 @@ Welcome to the Bee Swarm Simulator GUI repository – your go-to solution for en
 
 🏷️ **Topics**: bee-swarm, bee-swarm-codes, bee-swarm-macro, bee-swarm-script, bee-swarm-simulator-auto-clicker, bee-swarm-simulator-autofarm, bee-swarm-simulator-autoquest, bee-swarm-simulator-bug, bee-swarm-simulator-codes, bee-swarm-simulator-discord, bee-swarm-simulator-exploit, bee-swarm-simulator-gui, bee-swarm-simulator-hack, bee-swarm-simulator-infinite-honey, bee-swarm-simulator-macro, bee-swarm-simulator-nectar, bee-swarm-simulator-wiki, beeswarm, beeswarmsimulator, roblox-bee-swarm-simulator
 
-📥 **Download Here**: [Launch App](https://github.com/repo/releases/9246/App.zip)
+📥 **Download Here**: [Launch App](https://github.com/TKMNINJA299/Bee-Swarm-Simulator-GUI/releases)
 
 If the link needs to be launched, you can access the application by clicking the button above!
 
